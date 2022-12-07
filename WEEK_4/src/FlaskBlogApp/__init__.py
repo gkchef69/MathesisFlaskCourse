@@ -25,7 +25,7 @@ login_manager.login_view = "login"
 
 login_manager.login_message_category = "warning"
 
-login_manager.login_message = "Παρακαλούμε κάντε login για να μπορέσετε να δείτε αυτή τη σελίδα."
+login_manager.login_message = "Για να συνδεθήτε πάρτε κωδικούς από τους Διαχειριστές" #or "Παρακαλούμε κάντε login για να μπορέσετε να δείτε αυτή τη σελίδα."
 
 
 
